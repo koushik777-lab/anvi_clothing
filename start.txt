@@ -1,0 +1,10 @@
+1. start backend
+
+cd server
+npm run dev
+
+
+2. start forntend
+
+cd client
+npm run dev
